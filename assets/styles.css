@@ -1226,7 +1226,6 @@ h3.txt-by {
 h3.txt-ne {
     position: inherit;
     top: calc(50% + 5px);
-    border: 2px solid green;
     text-align: center;
     line-height: 1;
     margin-top: 15px;
